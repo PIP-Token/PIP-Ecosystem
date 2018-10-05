@@ -40,7 +40,7 @@ As a result, most foundations don’t really know if they could be doing their w
 The satellite-view shown below provides a zachmann modular decomposition of the overall PIP Ecosystem.
 //TODO illustrate the critical components here
 
-![Alt text](/images/pip_satellite.jpg?raw=true "The PIP Ecosystem")
+![Alt text](/images/pip_satellite.png?raw=true "The PIP Ecosystem")
 
 ## Todos
 - Add Synopsis, design aspects esp voting, transparency in campaign-execution, witness/verification process, the ecosystem inner workings, etc for WP articulation, platform design, maintainability & supportability
