@@ -20,8 +20,9 @@ As a result, most foundations don’t really know if they could be doing their w
 
 - Using a stablecoin, such as Gemini USD [GUSD], to ensure the token economics are stable and ensures the fluctuations are harmonized and do not affect the impact being executed, verified and measured.
 
-- Each stakeholder in the PIP ecosystem has a transparent access to various campaign metrics, quantitative and qualitative rating measure at the campaign level as well as individual level.
-Verifiers/Witnesses are incentivized based on their participation in the specific campaign in terms of hybrid curation and verification models.
+- Each stakeholder in the PIP ecosystem has a transparent access to various campaign metrics, quantitative and qualitative rating measures at the campaign level and individual level.
+
+- Verifiers/Witnesses are incentivized based on their participation in the specific campaign in terms of hybrid curation and verification models.
 
 # PIP & the Platform Ecosystem
 
