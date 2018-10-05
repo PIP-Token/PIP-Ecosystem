@@ -16,7 +16,7 @@ As a result, most foundations don’t really know if they could be doing their w
 
 - A transparent capital disbursement to the cause and geo-location, through a well defined and curated expert NGO organizations.
 
-- A decentralized ecosystem where the stakeholders and voters have complete control on how the capital is disbursed, results measured, verified and published for each campaign.
+- A decentralized ecosystem where the stakeholders and voters have complete control on how the capital is disbursed, results measured, witnessed & impact verified and published for each campaign.
 
 - Using a stablecoin, such as Gemini USD [GUSD], to ensure the token economics are stable and ensures the fluctuations are harmonized and do not affect the impact being executed, verified and measured.
 
@@ -36,8 +36,11 @@ As a result, most foundations don’t really know if they could be doing their w
 
 # PIP Stakholder Value Proposition
 
-# The PIP blockchain Platform Architecture
+# The PIP Blockchain Ecosystem & Platform Architecture
+The satellite-view shown below provides a zachmann modular decomposition of the overall PIP Ecosystem.
+//TODO illustrate the critical components here
 
+![Alt text](/images/pip_satellite.png?raw=true "The PIP Ecosystem")
 
 ## Todos
 - Add Synopsis, design aspects esp voting, transparency in campaign-execution, witness/verification process, the ecosystem inner workings, etc for WP articulation, platform design, maintainability & supportability
