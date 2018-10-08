@@ -24,6 +24,17 @@ As a result, most foundations don’t really know if they could be doing their w
 
 - Verifiers/Witnesses are incentivized based on their participation in the specific campaign in terms of hybrid curation and verification models.
 
+## The PIP WIP Artifacts [WIP]
+- PIP constitution draft
+![Alt text](/constitution/README.md?raw=true "The PIP Constitution")
+
+- PIP White Paper
+![Alt text](https://docs.google.com/document/d/1hLsv5CIpGCn6965laioW4O0b5530AbskvOm2zKF-R_w/edit "The PIP Whitepaper")
+
+- PIP Technology Reference Deck
+![Alt text](https://docs.google.com/presentation/d/17BGmecwZsrqnfDxtxk6iMu8CAkVEim7bFZz31AkFJGs/edit "The PIP Tech Ref Deck")
+
+
 # PIP & the Platform Ecosystem
 
 - The PIP project encapsulates a native PIP Token as base currency to enable an ecosystem for impact measurement. This platform enables a delegated architecture for executing philanthropy campaigns, verification, ensuring Key Performance Indicator measures are met, and on-chain settlement of aid disbursement and impact result publication.
