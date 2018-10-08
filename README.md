@@ -36,11 +36,21 @@ As a result, most foundations don’t really know if they could be doing their w
 
 # PIP Stakholder Value Proposition
 
-# The PIP Blockchain Ecosystem & Platform Architecture
-The satellite-view shown below provides a zachmann modular decomposition of the overall PIP Ecosystem.
+# The PIP Blockchain Ecosystem
+The satellite-view shown below provides a zachmann modular decomposition of the overall PIP Ecosystem. This includes the system interactions as well as stake-holders via DAPPs shown in the the second horizontal.
+
 //TODO illustrate the critical components here
 
 ![Alt text](/images/pip_satellite.png?raw=true "The PIP Ecosystem")
+
+# The PIP Blockchain Platform Architecture
+// Illustrate the technical architecture
+![Alt text](/images/pip-hld.png?raw=true "The PIP Platform Architecture")
+
+# The PIP Blockchain Deployment Architecture
+// Illustrate the deployment architecture
+![Alt text](/images/pip-deployment.png?raw=true "The PIP Deployment Architecture")
+
 
 ## Todos
 - Add Synopsis, design aspects esp voting, transparency in campaign-execution, witness/verification process, the ecosystem inner workings, etc for WP articulation, platform design, maintainability & supportability
