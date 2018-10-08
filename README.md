@@ -44,3 +44,4 @@ The satellite-view shown below provides a zachmann modular decomposition of the 
 
 ## Todos
 - Add Synopsis, design aspects esp voting, transparency in campaign-execution, witness/verification process, the ecosystem inner workings, etc for WP articulation, platform design, maintainability & supportability
+- Update the constitution once the stakeholders and rewards are well defined
