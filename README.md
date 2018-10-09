@@ -26,13 +26,14 @@ As a result, most foundations don’t really know if they could be doing their w
 
 ## The PIP WIP Artifacts [WIP]
 - PIP constitution draft
-![Alt text](/constitution/README.md?raw=true "The PIP Constitution")
+[The PIP Constitution draft](https://raw.githubusercontent.com/Byzantine-Works/PIP/master/constitution/README.md "PIP Constitution")
 
 - PIP White Paper
-![Alt text](https://docs.google.com/document/d/1hLsv5CIpGCn6965laioW4O0b5530AbskvOm2zKF-R_w/edit "The PIP Whitepaper")
+[The PIP Whitepaper draft](https://docs.google.com/document/d/1hLsv5CIpGCn6965laioW4O0b5530AbskvOm2zKF-R_w/edit "PIP WP draft")
 
 - PIP Technology Reference Deck
-![Alt text](https://docs.google.com/presentation/d/17BGmecwZsrqnfDxtxk6iMu8CAkVEim7bFZz31AkFJGs/edit "The PIP Tech Ref Deck")
+[The PIP Ref deck](https://docs.google.com/presentation/d/17BGmecwZsrqnfDxtxk6iMu8CAkVEim7bFZz31AkFJGs/edit "PIP Ref deck")
+
 
 
 # PIP & the Platform Ecosystem
